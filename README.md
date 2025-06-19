@@ -1,5 +1,5 @@
 Student of Pakistani-origin born and located in Germany. Proud to be Muslim, Pakistani and German.  
-Interested in making biologically plausible androids a reality by studying Neuroscience in Germany.
+Interested in making biologically plausible androids a reality by studying Neuroscience.
 
 <!--
 **Hamzah-Asadullah/Hamzah-Asadullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
